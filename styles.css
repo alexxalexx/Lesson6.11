@@ -1,0 +1,12 @@
+main div
+{
+	background: pink;
+	color: black;
+	padding: 30px;
+	max-width: 30px;
+	margin: 5px;
+}
+.flex-center
+{
+	display: flex;
+	justify-content: center;}
